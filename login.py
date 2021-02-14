@@ -1,3 +1,4 @@
 email = input()
 password = input()
-print("login berhasil")
+if email=='willy07pr':
+  print("ga usah password")
