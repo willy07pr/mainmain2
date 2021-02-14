@@ -1,3 +1,4 @@
 email = input()
-password = input()
-print("login berhasil")
+pin = input()
+print(email, "berhasil login")
+print{"Have a nice day")
