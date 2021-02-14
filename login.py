@@ -1,4 +1,6 @@
 email = input()
-pin = input()
-print(email, "berhasil login")
-print{"Have a nice day")
+password = input()
+if email=='willy07pr':
+  print("ga usah password")
+else:
+      print(email, "berhasil login")
